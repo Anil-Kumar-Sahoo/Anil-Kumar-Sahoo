@@ -195,7 +195,7 @@
 
 <p>
     <img
-        align="left"
+        align="top-left"
         width = "46.5%"
         src="https://github-readme-stats.vercel.app/api?username=anil-kumar-sahoo&show_icons=true&locale=en"
         alt="anil-kumar-sahoo" />
@@ -203,7 +203,7 @@
 
 <p>
     <img
-        align="right"
+        align="top-right"
         width = "49%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=anil-kumar-sahoo&"
         alt="anil-kumar-sahoo" />
